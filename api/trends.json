@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-11T15:22:39.403992+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-10-11T15:58:32.411567+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "2025年诺贝尔和平奖颁布，得奖的不是特朗普",
@@ -26,8 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 15时58分]"
+        },
+        {
+          "title": "释新闻｜加沙停火协议是如何达成的？特朗普的“非传统策略”有效？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31752399",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 15时58分]"
         },
         {
           "title": "中国祭出稀土新规，特朗普竟又“威胁”",
@@ -41,17 +54,15 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
-          "title": "释新闻｜加沙停火协议是如何达成的？特朗普的“非传统策略”有效？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31752399",
-          "source": "澎湃新闻",
+          "title": "诺贝尔和平奖得主发帖称把荣誉献给特朗普，特朗普转发",
+          "url": "https://news.ifeng.com/c/8nMHpxROitr",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            3,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 15时58分]"
         },
         {
           "title": "媒体：特朗普威胁对华加征100%新关税",
@@ -59,11 +70,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时00分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 15时58分]"
         },
         {
           "title": "特朗普政府在全美机场播放责难视频",
@@ -81,15 +93,16 @@
           "time_info": "[01时22分 ~ 07时23分]"
         },
         {
-          "title": "诺贝尔和平奖得主发帖称把荣誉献给特朗普，特朗普转发",
-          "url": "https://news.ifeng.com/c/8nMHpxROitr",
-          "source": "凤凰网",
+          "title": "特朗普发文感谢普京",
+          "url": "https://www.toutiao.com/trending/7559142149669998099/",
+          "source": "今日头条",
           "ranks": [
-            6
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时58分]"
         },
         {
           "title": "特朗普威胁实施关键软件出口管制",
@@ -98,11 +111,37 @@
           "ranks": [
             10,
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普对华关税恐吓把美股吓出心脏病了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%90%93%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D7%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D8%26realpos%3D7%26lcate%3D5001%26cate%3D5001%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E5%258D%258E%25E5%2585%25B3%25E7%25A8%258E%25E6%2581%2590%25E5%2590%2593%25E6%258A%258A%25E7%25BE%258E%25E8%2582%25A1%25E5%2590%2593%25E5%2587%25BA%25E5%25BF%2583%25E8%2584%258F%25E7%2597%2585%25E4%25BA%2586%2523%26dgr%3D0%26display_time%3D1760156902%26pre_seqid%3D17601569027270376011233",
+          "source": "微博",
+          "ranks": [
+            7,
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 15时58分]"
+        },
+        {
+          "title": "如何看特朗普最新关税恐吓",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时58分]"
         },
         {
           "title": "达美航空和墨西哥航空就特朗普政府撤销合资企业的决定提起上诉。",
@@ -117,6 +156,28 @@
           "time_info": "[04时29分 ~ 07时23分]"
         },
         {
+          "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
+          "url": "https://news.ifeng.com/c/8nMSoze2N8i",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "特朗普体检结果",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%93%E6%A3%80%E7%BB%93%E6%9E%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D0%26cate%3D5001%26band_rank%3D1%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BD%2593%25E6%25A3%2580%25E7%25BB%2593%25E6%259E%259C%2523%26stream_entry_id%3D31%26realpos%3D1%26lcate%3D5001%26dgr%3D0%26display_time%3D1760169382%26pre_seqid%3D17601693829290378408451",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "特朗普宣布将访问开罗和耶路撒冷 庆祝停火及人质释放协议",
           "url": "https://flash.jin10.com/detail/20251011093641721800",
           "source": "金十数据",
@@ -126,6 +187,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "特朗普关税威胁冲击市场信心",
+          "url": "https://www.douyin.com/hot/2265997",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
+          "url": "https://news.ifeng.com/c/8nMVSUorsOg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "据AXIOS：美国总统特朗普计划下周访埃及期间，就加沙问题召开领导人峰会。",
@@ -139,37 +222,17 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普发文感谢普京",
-          "url": "https://www.toutiao.com/trending/7559142149669998099/",
-          "source": "今日头条",
+          "title": "美政府继续“停摆” 特朗普称裁员将“以民主党人为主”",
+          "url": "https://flash.jin10.com/detail/20251011140508951800",
+          "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "如何看特朗普最新关税恐吓",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "特朗普关税威胁冲击市场信心",
-          "url": "https://www.douyin.com/hot/2265997",
-          "source": "抖音",
-          "ranks": [
-            11
+            2,
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普：将前往以色列。 还将前往埃及。",
@@ -196,18 +259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 15时22分]"
-        },
-        {
-          "title": "美政府继续“停摆” 特朗普称裁员将“以民主党人为主”",
-          "url": "https://flash.jin10.com/detail/20251011140508951800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：医药关税是迫使阿斯利康来到美国的重要原因。",
@@ -259,6 +310,31 @@
           "time_info": "[11时34分 ~ 14时34分]"
         },
         {
+          "title": "阿斯利康ADR美股盘后涨2.32%，该公司从美国总统特朗普的医药关税获得三年“暂缓期/宽限期”。",
+          "url": "https://wallstreetcn.com/livenews/2985974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普发文感谢普京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%99%AE%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时58分]"
+        },
+        {
           "title": "特朗普“关税大棒”奏效：已与阿斯利康达成协议，降低美国药价！",
           "url": "https://www.cls.cn/detail/2166164",
           "source": "财联社热门",
@@ -296,19 +372,6 @@
           "time_info": "[12时29分 ~ 14时34分]"
         },
         {
-          "title": "特朗普发文感谢普京",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%99%AE%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时22分]"
-        },
-        {
           "title": "美国总统特朗普将宣布与阿斯利康的交易，包括该公司在美国投资500亿美元的承诺。（MSNBC）",
           "url": "https://wallstreetcn.com/livenews/2985880",
           "source": "华尔街见闻-快讯",
@@ -343,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "为何特朗普威胁对华加征100%关税",
+          "url": "https://www.toutiao.com/trending/7559810642455039524/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普宣布阿斯利康协议，称：该公司承诺为美国提供大幅医药折扣。 该公司将在TrumpRX网站提供医药清单。 阿斯利康承诺，未来五年在美国投资500亿美元。",
@@ -441,6 +516,18 @@
           "time_info": "[00时32分 ~ 01时22分]"
         },
         {
+          "title": "特朗普威胁对华加税100%意欲何为",
+          "url": "https://www.toutiao.com/trending/7559778445308202539/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时58分]"
+        },
+        {
           "title": "特朗普宣布与英国最大药企达成协议",
           "url": "https://www.toutiao.com/trending/7559435282311888946/",
           "source": "今日头条",
@@ -508,17 +595,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "为何特朗普威胁对华加征100%关税",
-          "url": "https://www.toutiao.com/trending/7559810642455039524/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "美国多名内阁部长猛夸特朗普",
           "url": "https://www.toutiao.com/trending/7559048062258872362/",
           "source": "今日头条",
@@ -528,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普威胁对华加税100%意欲何为",
-          "url": "https://www.toutiao.com/trending/7559778445308202539/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美国总统特朗普：感谢俄罗斯总统普京。",
@@ -554,607 +619,86 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 36,
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美股跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D0%26band_rank%3D1%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26realpos%3D1%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E7%25BE%258E%25E8%2582%25A1%25E8%25B7%25B3%25E6%25B0%25B4%26c_type%3D31%26display_time%3D1760113492%26pre_seqid%3D17601134920640374134591",
-          "source": "微博",
+          "title": "内塔尼亚胡威胁哈马斯，暗示可能重启战争",
+          "url": "https://news.ifeng.com/c/8nLIg2L2D99",
+          "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美股遭遇“黑色星期五”：纳指暴跌3.56% 创4月以来最大单日跌幅",
-          "url": "https://www.cls.cn/detail/2166141",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
-        },
-        {
-          "title": "【早报】美股“黑色星期五”来袭，大型科技股普跌；高通，被立案调查",
-          "url": "https://www.cls.cn/detail/2166149",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
-        },
-        {
-          "title": "美股跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D9%26band_rank%3D8%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E7%25BE%258E%25E8%2582%25A1%26c_type%3D31%26display_time%3D1760113492%26pre_seqid%3D17601134920640374134591",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            4,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美股遭遇「黑色星期五」，纳指暴跌 3.56%，如何看待 10 月 10 日美股走势？",
-          "url": "https://www.zhihu.com/question/1960156890869798671",
-          "source": "知乎",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
-        },
-        {
-          "title": "美股盘中崩跌，纳指跌超2%，芯片指数跌超4%，黄金拉升，铜油跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "美股直线跳水",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美股跳水",
-          "url": "https://www.toutiao.com/trending/7558959517799546899/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股暴跌 遭遇“黑色星期五”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E2%80%9C%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7,
-            9,
-            15,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
-        },
-        {
-          "title": "美股暴跌遭遇“黑色星期五”",
-          "url": "https://www.douyin.com/hot/2265795",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时22分]"
-        },
-        {
-          "title": "美股盘中崩跌，纳指跌超3%，芯片指数跌超5%，黄金拉升，铜油跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
-        },
-        {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普对华关税恐吓把美股吓出心脏病了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%90%93%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D7%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D8%26realpos%3D7%26lcate%3D5001%26cate%3D5001%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E5%258D%258E%25E5%2585%25B3%25E7%25A8%258E%25E6%2581%2590%25E5%2590%2593%25E6%258A%258A%25E7%25BE%258E%25E8%2582%25A1%25E5%2590%2593%25E5%2587%25BA%25E5%25BF%2583%25E8%2584%258F%25E7%2597%2585%25E4%25BA%2586%2523%26dgr%3D0%26display_time%3D1760156902%26pre_seqid%3D17601569027270376011233",
-          "source": "微博",
-          "ranks": [
-            7,
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
-          "title": "美股遭遇“黑色星期五”",
-          "url": "https://www.toutiao.com/trending/7559731598242057778/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股暴跌遭遇“黑色星期五”",
-          "url": "https://www.toutiao.com/trending/7559731598242057778/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 14时34分]"
-        },
-        {
-          "title": "铿腾电子（CDNS）美股盘后跌3.67%，新思科技（SNPS）跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2985951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股急跌 下周A股行情悬了吗",
-          "url": "https://www.toutiao.com/trending/7559737301933231679/",
-          "source": "今日头条",
+          "title": "石破茂称日政府从未否认侵略战争",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E7%A7%B0%E6%97%A5%E6%94%BF%E5%BA%9C%E4%BB%8E%E6%9C%AA%E5%90%A6%E8%AE%A4%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D11%26band_rank%3D10%26stream_entry_id%3D31%26dgr%3D0%26lcate%3D5001%26realpos%3D10%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E7%259F%25B3%25E7%25A0%25B4%25E8%258C%2582%25E7%25A7%25B0%25E6%2597%25A5%25E6%2594%25BF%25E5%25BA%259C%25E4%25BB%258E%25E6%259C%25AA%25E5%2590%25A6%25E8%25AE%25A4%25E4%25BE%25B5%25E7%2595%25A5%25E6%2588%2598%25E4%25BA%2589%2523%26c_type%3D31%26display_time%3D1760113492%26pre_seqid%3D17601134920640374134591",
+          "source": "微博",
           "ranks": [
             10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时00分]"
-        },
-        {
-          "title": "WTI原油期货跌幅扩大至5.15%，在美股盘后报57.85美元。 墨西哥比索、巴西雷亚尔兑美元刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/2985950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "阿斯利康ADR美股盘后涨2.32%，该公司从美国总统特朗普的医药关税获得三年“暂缓期/宽限期”。",
-          "url": "https://wallstreetcn.com/livenews/2985974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "金十图示：2025年10月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251011040524845800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "金十图示：2025年10月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251011040518025800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：纳指大跌3.5%，创4月10日以来最大单日跌幅",
-          "url": "https://flash.jin10.com/detail/20251011040206944800",
-          "source": "金十数据",
-          "ranks": [
+            7,
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
-          "title": "中概股ETF CQQQ美股盘后跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/2985948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "联合健康（UNH）美股盘后跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2985963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股遭遇“黑色星期五”发生了什么",
-          "url": "https://www.toutiao.com/trending/7559726104899223602/",
+          "title": "石破茂：日本政府从未否认侵略战争",
+          "url": "https://www.toutiao.com/trending/7559766462554967606/",
           "source": "今日头条",
           "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时00分]"
-        },
-        {
-          "title": "半导体ETF收跌超5.7%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2985986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "加密货币市场美股盘后蒸发超60亿美元",
-          "url": "https://wallstreetcn.com/livenews/2985964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "媒体：美关税恐吓把美股吓出心脏病",
-          "url": "https://www.toutiao.com/trending/7559804067162099210/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "美股继续下跌，纳斯达克综合指数跌超2%；纳斯达克100指数跌幅一度达2.4%，创4月30日以来最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20251010233618864800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "加密货币市场美股盘后被平仓超60亿美元",
-          "url": "https://wallstreetcn.com/livenews/2985964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "半导体ETF收跌超5.7%，领跌美股行业ETF，英伟达收跌约4.9%跌幅相对偏小",
-          "url": "https://wallstreetcn.com/livenews/2985986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美股芯片股受挫，费城半导体指数下跌4.2%，AMD(AMD.O)跌超7%，英伟达(NVDA.O)跌2.6%。",
-          "url": "https://flash.jin10.com/detail/20251010233345032800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "金十图示：2025年10月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251011011200190800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美股稀土股短线拉升，USA Rare Earth(USAR.O)大涨15%，MP Materials(MP.N)涨11.5%，Critical Metals(CRPL.O)涨21%。",
-          "url": "https://flash.jin10.com/detail/20251010233107749800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "金十图示：2025年10月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251011011157175800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元反弹至两个月新高，美股、黄金、美债齐跌，白银突破历史新高后暴跌",
-          "url": "https://wallstreetcn.com/articles/3756850",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时22分]"
-        },
-        {
-          "title": "美股盘中崩跌，纳指跌超3%，芯片指数跌超5%，美债黄金拉升，铜油跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
-        },
-        {
-          "title": "布油基金收跌约3.8%，和新兴市场ETF领跌美股大类资产类ETF，黄金和长端美债ETF至多涨约1.6%",
-          "url": "https://wallstreetcn.com/livenews/2985991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            5,
+            1,
             4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时49分]"
-        },
-        {
-          "title": "周五（10月10日）纽约尾盘，美国10年期国债收益率跌9.09个基点，报4.0475%，本周累计下跌7.17个基点。 两年期美债收益率跌7.45个基点，报3.5181%，本周累跌5.77个基点——周五北京时间23:00前后跳水幅度突出。 2/10年期美债收益率利差跌1.633个基点，报+52.731个基点，本周累跌1.601个基点。",
-          "url": "https://wallstreetcn.com/livenews/2985920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
-          "url": "https://flash.jin10.com/detail/20251011005206284800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D6%26pos%3D6%26c_type%3D31%26realpos%3D6%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26display_time%3D1760147242%26pre_seqid%3D17601472426950377575519",
-          "source": "微博",
-          "ranks": [
-            6,
             21,
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时24分]"
+          "time_info": "[12时29分 ~ 15时58分]"
         },
         {
-          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
-          "url": "https://wallstreetcn.com/livenews/2985883",
+          "title": "石破茂称日政府从未否认侵略战争",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9F%B3%E7%A0%B4%E8%8C%82%E7%A7%B0%E6%97%A5%E6%94%BF%E5%BA%9C%E4%BB%8E%E6%9C%AA%E5%90%A6%E8%AE%A4%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时58分]"
+        },
+        {
+          "title": "乌克兰与荷兰签署无人机联合生产备忘录",
+          "url": "https://wallstreetcn.com/livenews/2985892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
-            26
+            1,
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时20分]"
         },
         {
-          "title": "金价回调后怎样找到购买时机",
-          "url": "https://www.douyin.com/hot/2265459",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20251011033626583800",
+          "title": "乌克兰总统泽连斯基：乌克兰与荷兰同意联合生产无人机。",
+          "url": "https://flash.jin10.com/detail/20251010233827162800",
           "source": "金十数据",
           "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时23分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至2%，科技板块跌2.91%，可选消费板块跌2.86%，能源板块跌2.06%，电信板块跌1.76%。 道指跌624点跌幅1.35%，纳指跌626点跌幅2.72%，半导体指数跌4.8%。 纽元/美元日内跌幅达0.5%，报0.5716。",
-          "url": "https://wallstreetcn.com/livenews/2985893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
-        },
-        {
-          "title": "美元指数跌约0.6%，本周累计涨幅收窄至不足1.3%",
-          "url": "https://wallstreetcn.com/livenews/2985918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时23分]"
-        },
-        {
-          "title": "纽约金日内涨幅达1.5%，报4032.5美元/盎司。 恐慌指数VIX波动率日内涨幅达27.0%，报20.87。 WTI原油期货跌3.6%。",
-          "url": "https://wallstreetcn.com/livenews/2985851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "[00时32分 ~ 01时22分]"
         }
       ]
     },
@@ -1189,6 +733,36 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
+          "url": "https://flash.jin10.com/detail/20251011005206284800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "贵金属公司CEO称明年黄金价格将突破5000美元",
+          "url": "https://wallstreetcn.com/livenews/2985883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -1213,6 +787,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "法律 医疗纠纷 医患关系 诉讼 医疗事故 医疗诉讼 医院赔偿 手术失败 误诊 合同纠纷 侵权",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三只羊因合同纠纷被起诉",
+          "url": "https://flash.jin10.com/detail/20251011104706292800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时29分]"
         }
       ]
     }
