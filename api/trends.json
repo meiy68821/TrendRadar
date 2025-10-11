@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T06:21:50.362560+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-10-12T07:21:37.428026+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：已祝贺美国总统特朗普在中东取得成功。",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普进行了良好而富有成效的会谈。",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：感谢美国愿意提供支持，并讨论了加强防空力量。",
@@ -48,8 +48,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：已向美国总统特朗普通报了俄罗斯对乌克兰能源基础设施的袭击。",
@@ -59,8 +59,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "美国白宫幕僚长：乌克兰总统泽连斯基目前正在与美国总统特朗普通话。",
@@ -70,8 +70,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "安全部门消息人士称，乌克兰无人机袭击了俄罗斯位于乌法的巴什内夫炼油厂。",
@@ -81,8 +81,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "乌克兰官员Yermak：泽连斯基和特朗普目前正在通话。",
@@ -92,8 +92,23 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "石破茂：日本政府从未否认侵略战争",
+          "url": "https://www.toutiao.com/trending/7559766462554967606/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24,
+            14,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 07时21分]"
         },
         {
           "title": "石破茂称日政府从未否认侵略战争",
@@ -108,20 +123,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 03时16分]"
-        },
-        {
-          "title": "石破茂：日本政府从未否认侵略战争",
-          "url": "https://www.toutiao.com/trending/7559766462554967606/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 06时21分]"
         },
         {
           "title": "中美“大豆战争”版本更新",
@@ -150,8 +151,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时21分]"
         }
       ]
     }
