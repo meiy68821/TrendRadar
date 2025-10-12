@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T12:28:06.562649+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-10-12T13:21:05.535836+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "欧尔班：乌克兰意图颠覆匈牙利政权",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时19分]"
+        },
+        {
+          "title": "据塔斯社：俄罗斯防空部队夜间击落32架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251012121100638800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -151,11 +162,12 @@
             19,
             15,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 12时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 13时21分]"
         }
       ]
     },
@@ -170,11 +182,12 @@
           "ranks": [
             20,
             4,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 13时21分]"
         }
       ]
     }
