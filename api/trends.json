@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T20:41:38.997838+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-10-12T21:27:22.846093+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "欧尔班：乌克兰意图颠覆匈牙利政权",
@@ -125,6 +125,17 @@
           "time_info": "[00时26分 ~ 03时16分]"
         },
         {
+          "title": "法国总统马克龙：法国谴责俄罗斯对乌克兰基础设施的袭击，并正与合作伙伴携手，共同恢复关键服务。",
+          "url": "https://flash.jin10.com/detail/20251012205952020800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "据塔斯社：俄罗斯防空部队夜间击落32架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20251012121100638800",
           "source": "金十数据",
@@ -137,6 +148,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 16时28分]"
+        },
+        {
+          "title": "泽连斯基：俄一周内动用超三千架无人机袭击乌克兰",
+          "url": "https://flash.jin10.com/detail/20251012182706535800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时27分]"
         },
         {
           "title": "俄罗斯国防部：过去一天，俄罗斯击落了72架乌克兰无人机。",
@@ -163,18 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时23分 ~ 20时41分]"
-        },
-        {
-          "title": "泽连斯基：俄一周内动用超三千架无人机袭击乌克兰",
-          "url": "https://flash.jin10.com/detail/20251012182706535800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时41分]"
         },
         {
           "title": "中美“大豆战争”版本更新",
