@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T03:17:06.163625+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-10-13T04:24:55.594766+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时24分]"
         }
       ]
     },
@@ -33,11 +33,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 04时24分]"
         }
       ]
     },
@@ -50,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20251012205952020800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时24分]"
         }
       ]
     }
