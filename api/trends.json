@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T13:21:05.535836+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2025-10-12T14:31:37.016245+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -125,6 +125,18 @@
           "time_info": "[00时26分 ~ 03时16分]"
         },
         {
+          "title": "据塔斯社：俄罗斯防空部队夜间击落32架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251012121100638800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时31分]"
+        },
+        {
           "title": "中美“大豆战争”版本更新",
           "url": "https://www.toutiao.com/trending/7559835917309972009/",
           "source": "今日头条",
@@ -134,17 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时19分]"
-        },
-        {
-          "title": "据塔斯社：俄罗斯防空部队夜间击落32架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251012121100638800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     },
@@ -163,11 +164,12 @@
             15,
             14,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 14时31分]"
         }
       ]
     },
