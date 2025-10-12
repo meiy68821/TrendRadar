@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T09:49:02.844646+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-10-12T11:10:44.741923+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -149,11 +149,12 @@
             17,
             18,
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时10分]"
         }
       ]
     },
@@ -166,11 +167,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时10分]"
         }
       ]
     }
