@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T14:31:37.016245+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-10-12T15:20:20.298940+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -130,11 +130,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "中美“大豆战争”版本更新",
@@ -168,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 15时20分]"
         }
       ]
     },
