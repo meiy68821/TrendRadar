@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T02:29:57.080738+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-10-13T03:17:06.163625+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     },
@@ -32,11 +32,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 03时17分]"
         }
       ]
     },
@@ -52,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     }
