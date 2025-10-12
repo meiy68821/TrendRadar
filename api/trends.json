@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T19:20:37.916090+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-10-12T20:41:38.997838+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -144,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时41分]"
         },
         {
           "title": "俄罗斯国防部：俄军打击乌克兰军事工业综合体的燃料与能源基础设施。（俄新社）",
@@ -156,11 +157,24 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时41分]"
+        },
+        {
+          "title": "泽连斯基：俄一周内动用超三千架无人机袭击乌克兰",
+          "url": "https://flash.jin10.com/detail/20251012182706535800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时20分]"
+          "time_info": "[19时20分 ~ 20时41分]"
         },
         {
           "title": "中美“大豆战争”版本更新",
@@ -172,22 +186,11 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时19分]"
-        },
-        {
-          "title": "泽连斯基：俄一周内动用超三千架无人机袭击乌克兰",
-          "url": "https://flash.jin10.com/detail/20251012182706535800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         }
       ]
     },
     {
-      "keyword_group": "法律 医疗纠纷 医患关系 诉讼 医疗事故 医疗诉讼 医院赔偿 手术失败 误诊 合同纠纷 侵权",
+      "keyword_group": "法律",
       "match_count": 1,
       "titles": [
         {
