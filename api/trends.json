@@ -1,598 +1,105 @@
 {
-  "generated_at": "2025-10-13T21:33:45.463524+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2025-10-14T18:20:21.349211+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 39,
+      "match_count": 6,
       "titles": [
         {
-          "title": "以总理：加沙战争结束",
-          "url": "https://www.douyin.com/hot/2268657",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时33分]"
-        },
-        {
-          "title": "乌克兰军队在红军城的现状如何？",
-          "url": "https://www.zhihu.com/question/1959795050050467361",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时34分]"
-        },
-        {
-          "title": "加沙战争结束",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时33分]"
-        },
-        {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.cls.cn/detail/2167646",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时33分]"
-        },
-        {
-          "title": "法国总统马克龙：法国谴责俄罗斯对乌克兰基础设施的袭击，并正与合作伙伴携手，共同恢复关键服务。",
-          "url": "https://flash.jin10.com/detail/20251012205952020800",
+          "title": "克里姆林宫：目前尚未与土耳其就乌克兰问题达成新的协议，但可以很快安排普京和埃尔多安之间的对话。",
+          "url": "https://flash.jin10.com/detail/20251014175140370800",
           "source": "金十数据",
           "ranks": [
-            13,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时19分]"
-        },
-        {
-          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
-          "url": "https://flash.jin10.com/detail/20251013161646636800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "乌克兰无人机攻击费奥多西亚油库并引发火灾",
-          "url": "https://flash.jin10.com/detail/20251013064053209800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
-          "url": "https://flash.jin10.com/detail/20251013063304905800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
-          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时33分]"
-        },
-        {
-          "title": "特朗普连说三遍战争结束了",
-          "url": "https://www.douyin.com/hot/2268110",
-          "source": "抖音",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普强调了三遍：战争结束了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时37分]"
-        },
-        {
-          "title": "加沙战争结束",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%258A%25A0%25E6%25B2%2599%25E6%2588%2598%25E4%25BA%2589%25E7%25BB%2593%25E6%259D%259F%2523%26dgr%3D0%26band_rank%3D5%26filter_type%3Drealtimehot%26realpos%3D5%26c_type%3D31%26pos%3D5%26flag%3D1%26cate%3D5001%26lcate%3D5001%26display_time%3D1760348015%26pre_seqid%3D17603480157540376730038",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时20分]"
-        },
-        {
-          "title": "乌克兰多个地区实施紧急断电举措",
-          "url": "https://flash.jin10.com/detail/20251013142926206800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时24分]"
-        },
-        {
-          "title": "乌克兰多个地区实施紧急断电举措",
-          "url": "https://wallstreetcn.com/livenews/2986575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%B7%B2%E7%BB%93%E6%9D%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            24,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 21时33分]"
-        },
-        {
-          "title": "内塔尼亚胡：加沙战争已结束",
-          "url": "https://www.toutiao.com/trending/7559745074310332458/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时49分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.douyin.com/hot/2268670",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时20分]"
-        },
-        {
-          "title": "欧盟将再向乌克兰提供1亿欧元援助",
-          "url": "https://wallstreetcn.com/livenews/2986667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普：乌克兰需要“爱国者”导弹，并希望拥有战斧导弹，我们谈过这个。",
-          "url": "https://flash.jin10.com/detail/20251013052757698800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：我可能会告诉普京，如果这场冲突得不到解决，我将（向乌克兰）提供战斧导弹。",
-          "url": "https://flash.jin10.com/detail/20251013052609941800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://wallstreetcn.com/livenews/2986659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普：我们希望能够向乌克兰提供更多武器。",
-          "url": "https://flash.jin10.com/detail/20251013052507044800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "以色列媒体：加沙战争结束",
-          "url": "https://wallstreetcn.com/livenews/2986658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时27分]"
+          "time_info": "18时20分"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
           "source": "澎湃新闻",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "哈马斯：释放20名以色列被扣押人员是特朗普停止加沙战争计划第一阶段的一部分。",
-          "url": "https://flash.jin10.com/detail/20251013135645399800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "18时20分"
         },
         {
-          "title": "俄罗斯国防部：俄罗斯防空部队一夜之间击落了103架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251013122106542800",
+          "title": "克里姆林宫：希望美国能在乌克兰的和平进程中发挥影响力。欢迎特朗普希望在加沙局势取得进展后，将注意力集中于寻求解决乌克兰冲突的意愿。",
+          "url": "https://flash.jin10.com/detail/20251014175027679800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "18时20分"
         },
         {
-          "title": "国际现货黄金八周连涨，多头占比维持优势；特朗普将前往中东主持“和平峰会”，或宣告“加沙战争终结”，美国原油发出卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251013104656459800",
-          "source": "金十数据",
+          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "18时20分"
         },
         {
-          "title": "欧盟将降低或取消对多种乌克兰农产品的关税",
-          "url": "https://wallstreetcn.com/livenews/2986803",
-          "source": "华尔街见闻-快讯",
+          "title": "中美一致发声,力促加沙战争终结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
+          "source": "贴吧",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "18时20分"
         },
         {
-          "title": "在美国总统特朗普发表就可能向乌克兰提供“战斧”导弹的最新言论后，克里姆林宫拒绝进一步评论。",
-          "url": "https://flash.jin10.com/detail/20251013174038674800",
-          "source": "金十数据",
+          "title": "兄弟反目,阿塔巴塔濒临战争边缘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
+          "source": "贴吧",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "俄罗斯国防部称，俄军在乌克兰东部夺取了两个定居点。",
-          "url": "https://flash.jin10.com/detail/20251013173833694800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟将向乌克兰额外提供1亿欧元援助。",
-          "url": "https://flash.jin10.com/detail/20251013155838050800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "特朗普：不担心以色列在人质获释后重启战争。",
-          "url": "https://flash.jin10.com/detail/20251013052246321800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "据Politico：乌克兰情报部门援引一份包含泄露的俄罗斯数据的文件显示，今年前八个月，俄罗斯在乌克兰损失了 281,550 名士兵。",
-          "url": "https://flash.jin10.com/detail/20251013155452345800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "乌媒：卢卡申科警告乌克兰可能“不复存在”，指责泽连斯基导致谈判停滞",
-          "url": "https://wallstreetcn.com/livenews/2986612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "英媒：美国协助乌克兰打击俄能源设施",
-          "url": "https://wallstreetcn.com/livenews/2986402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "乌克兰无人机夜间袭击克里米亚一石油码头。",
-          "url": "https://flash.jin10.com/detail/20251013154931851800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "特朗普：考虑向乌克兰提供“战斧”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%80%83%E8%99%91%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "美国总统特朗普：我听说巴基斯坦和阿富汗之间“有战争”，我会尽力解决这个问题。",
-          "url": "https://flash.jin10.com/detail/20251013051757863800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "18时20分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI携手博通打造自研AI芯片",
-          "url": "https://flash.jin10.com/detail/20251013210437196800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "OpenAI与博通合作涵盖10GW算力，双方计划在2026年建立定制化数字中心。",
-          "url": "https://flash.jin10.com/detail/20251013210220848800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "据报道，OpenAI和博通计划合作开发专用于数据中心的定制芯片，预计将在2026年推出。",
-          "url": "https://wallstreetcn.com/livenews/2986844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "OpenAI 宣布与博通达成多年芯片合作。",
-          "url": "https://flash.jin10.com/detail/20251013210034503800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "美银：将明年黄金价格预期上调至5000美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251013170704151800",
-          "source": "金十数据",
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "渣打银行：上调2026年黄金价格预测至平均每盎司4488美元（此前为每盎司3875美元）。",
-          "url": "https://wallstreetcn.com/livenews/2986791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "院士钟世镇发声明，称寿宴上遭杨炯等 5 人冒充学生拍摄合影以达成商业目的，这种行为将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1960465756748735483",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 11时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "诉讼",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
         {
-          "title": "最高法改判福清祖屋强拆案后：屋主认为用补偿代赔偿行为违法，再提诉讼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31764468",
-          "source": "澎湃新闻",
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10,
-            9,
-            8,
-            4,
-            3,
-            2,
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时20分 ~ 19时20分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
