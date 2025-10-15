@@ -1,62 +1,18 @@
 {
-  "generated_at": "2025-10-14T18:20:21.349211+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-15T18:20:43.709116+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "克里姆林宫：目前尚未与土耳其就乌克兰问题达成新的协议，但可以很快安排普京和埃尔多安之间的对话。",
-          "url": "https://flash.jin10.com/detail/20251014175140370800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "克里姆林宫：希望美国能在乌克兰的和平进程中发挥影响力。欢迎特朗普希望在加沙局势取得进展后，将注意力集中于寻求解决乌克兰冲突的意愿。",
-          "url": "https://flash.jin10.com/detail/20251014175027679800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
         {
           "title": "中美一致发声,力促加沙战争终结",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
           "source": "贴吧",
           "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,35 +23,7 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
           "source": "贴吧",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
