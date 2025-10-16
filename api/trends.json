@@ -1,33 +1,56 @@
 {
-  "generated_at": "2025-10-15T18:20:43.709116+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-10-16T18:21:39.627846+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 2,
+      "keyword_group": "诉讼",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中美一致发声,力促加沙战争终结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
-          "source": "贴吧",
+          "title": "商务部：对于美国并未终止的清洁能源补贴等违规措施，中国将继续推进诉讼",
+          "url": "https://wallstreetcn.com/livenews/2988883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        },
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "兄弟反目,阿塔巴塔濒临战争边缘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
-          "source": "贴吧",
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
