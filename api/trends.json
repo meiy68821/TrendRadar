@@ -1,83 +1,44 @@
 {
-  "generated_at": "2025-10-18T18:18:04.077816+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-19T18:18:55.133726+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "据俄新社：俄罗斯方面称其部队已夺取乌克兰顿涅茨克地区的普列什奇夫卡。",
-          "url": "https://flash.jin10.com/detail/20251018172637543800",
+          "title": "据以色列媒体：以色列政府批准将加沙战争名称改为“抵抗战争”（\"The War of Resistance\"）。",
+          "url": "https://flash.jin10.com/detail/20251019173605850800",
           "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "乌克兰能否获得“战斧”导弹？泽连斯基：我很现实",
-          "url": "https://news.ifeng.com/c/8nY02McVZ1J",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "波兰拒绝德国引渡申请，乌克兰籍“北溪”爆炸案嫌疑人获释",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31799844",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "当地州长表示，乌克兰无人机袭击俄罗斯控制的赫尔松地区，造成两人死亡。",
-          "url": "https://flash.jin10.com/detail/20251018162157274800",
+          "title": "俄罗斯国防部：俄军在乌克兰东部占领Chunyshyne和Poltavka。",
+          "url": "https://flash.jin10.com/detail/20251019170755820800",
           "source": "金十数据",
           "ranks": [
-            7
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权",
-          "url": "https://flash.jin10.com/detail/20251018121006665800",
+          "title": "市场消息：乌克兰无人机袭击致使俄罗斯一座天然气厂起火。",
+          "url": "https://flash.jin10.com/detail/20251019142535140800",
           "source": "金十数据",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江 19 岁女大学生拍写真，被强行要求买 19 张照片额外支付两千多元，该工作室应承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1962591938818565620",
-          "source": "知乎",
-          "ranks": [
-            2
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     }
