@@ -1,44 +1,128 @@
 {
-  "generated_at": "2025-10-19T18:18:55.133726+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-20T18:21:09.443494+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "据以色列媒体：以色列政府批准将加沙战争名称改为“抵抗战争”（\"The War of Resistance\"）。",
-          "url": "https://flash.jin10.com/detail/20251019173605850800",
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251020181236971800",
           "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时21分"
         },
         {
-          "title": "俄罗斯国防部：俄军在乌克兰东部占领Chunyshyne和Poltavka。",
-          "url": "https://flash.jin10.com/detail/20251019170755820800",
-          "source": "金十数据",
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时21分"
         },
         {
-          "title": "市场消息：乌克兰无人机袭击致使俄罗斯一座天然气厂起火。",
-          "url": "https://flash.jin10.com/detail/20251019142535140800",
+          "title": "OpenAI：正在观察受影响服务的恢复情况，我们正在密切关注。",
+          "url": "https://flash.jin10.com/detail/20251020174853570800",
           "source": "金十数据",
           "ranks": [
-            27
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "法律",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子应聘船员出海，严重晕船后自缢身亡，家属索赔两百万被驳回，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/1962478022939635761",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "【药捷安康-B：建议实行H股全流通】药捷安康-B公告，于2025年10月20日，本公司董事会已考虑及批准向中国证监会提交申请，将本公司10名股东持有之44,971,128股本公司内资股转换为本公司H股，占本公司于本公告日期已发行股份总数约11.33%。于取得所有相关批准并遵守所有适用法律、法规及规则后，该等内资股将转换为H股，并符合资格于联交所主板上市及买卖。根据本公司章程，毋须再召开股东大会批准转换及上市。",
+          "url": "https://wallstreetcn.com/livenews/2990594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "侵权",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "解放军正告澳方立即停止侵权挑衅",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D10%26flag%3D1%26q%3D%2523%25E8%25A7%25A3%25E6%2594%25BE%25E5%2586%259B%25E6%25AD%25A3%25E5%2591%258A%25E6%25BE%25B3%25E6%2596%25B9%25E7%25AB%258B%25E5%258D%25B3%25E5%2581%259C%25E6%25AD%25A2%25E4%25BE%25B5%25E6%259D%2583%25E6%258C%2591%25E8%25A1%2585%2523%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D9%26realpos%3D9%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760955450%26pre_seqid%3D176095545024302297400102",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "南部空军正告澳方停止侵权挑衅",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E9%83%A8%E7%A9%BA%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴基斯坦警告印度：没有战争的余地",
+          "url": "https://www.toutiao.com/trending/7562149922758901779/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "克里姆林宫：继续与美国就乌克兰和平问题进行沟通。",
+          "url": "https://wallstreetcn.com/livenews/2990592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
