@@ -1,66 +1,122 @@
 {
-  "generated_at": "2025-10-21T18:22:15.672677+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-22T18:20:49.639851+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "title": "俄罗斯国防部：夜间打击是对乌克兰袭击俄罗斯平民目标的回应。",
+          "url": "https://flash.jin10.com/detail/20251022181208306800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "乌克兰、英国、德国、法国、意大利等发表联合声明",
+          "url": "https://news.ifeng.com/c/8neAUPhzsu6",
           "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
-          "title": "玄幻小说中，低等级修士参加战争的意义是什么？直接让高层修士打一场决定胜负不就行了吗？",
-          "url": "https://www.zhihu.com/question/3367386438",
-          "source": "知乎",
+          "title": "俄罗斯国防部：俄军打击乌克兰能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20251022181118760800",
+          "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
-          "title": "乌克兰最高拉达批准将战时状态再延长90天",
-          "url": "https://wallstreetcn.com/livenews/2991176",
+          "title": "俄罗斯国防部：俄罗斯军队占领了乌克兰东部的伊万尼夫卡。",
+          "url": "https://flash.jin10.com/detail/20251022180846801800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "泽连斯基：乌克兰已准备好结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31821164",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：特朗普提出的在现有战线停火的方案是“良好的妥协”。",
+          "url": "https://flash.jin10.com/detail/20251022174244965800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "乌克兰空军：俄罗斯夜间共发射了28枚导弹和405架无人机。",
+          "url": "https://flash.jin10.com/detail/20251022174157066800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "法律",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌总统签署法律 允许战时向土耳其和英国派遣武装力量",
+          "url": "https://wallstreetcn.com/livenews/2991807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        },
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "侵权",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "俄罗斯外长拉夫罗夫：我们准备继续就乌克兰问题开展工作。",
-          "url": "https://flash.jin10.com/detail/20251021174452563800",
-          "source": "金十数据",
+          "title": "澳军机侵闯我西沙领空，国防部：立即停止侵权挑衅和煽宣炒作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822301",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：停火意味着继续武装乌克兰。",
-          "url": "https://flash.jin10.com/detail/20251021174341864800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时20分"
         }
       ]
     },
@@ -69,32 +125,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：英伟达讨论为OpenAI提供贷款担保",
-          "url": "https://wallstreetcn.com/livenews/2991154",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
           "ranks": [
-            14
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时20分"
         }
       ]
     }
