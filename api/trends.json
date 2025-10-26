@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T18:19:15.714459+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-26T18:19:16.217365+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -8,54 +8,54 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "俄罗斯别尔哥罗德州州长：当地一座大坝遭到乌克兰袭击，造成损坏。",
-          "url": "https://flash.jin10.com/detail/20251025171239168800",
-          "source": "金十数据",
+          "title": "巴基斯坦发出“公开战争”警告",
+          "url": "https://news.ifeng.com/c/8nlZ3JUcg91",
+          "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
         {
-          "title": "如何看待乌克兰首都遭导弹袭击",
-          "url": "https://www.toutiao.com/trending/7565053419435458601/",
-          "source": "今日头条",
+          "title": "西方14国就乌克兰问题发表联合声明",
+          "url": "https://www.cls.cn/detail/2180715",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
-          "title": "俄国防部：俄防空部队一夜间在多地上空摧毁121架乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20251025141617657800",
-          "source": "金十数据",
+          "title": "西方多国就乌克兰问题发表联合声明",
+          "url": "https://wallstreetcn.com/livenews/2993709",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
       ]
     },
     {
-      "keyword_group": "法律",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "卢浮宫劫案后二手平台惊现“9999万正品”，法律专家解读：卖家是否违法？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31834226",
-          "source": "澎湃新闻",
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     }
