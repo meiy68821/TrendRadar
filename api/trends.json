@@ -1,18 +1,29 @@
 {
-  "generated_at": "2025-10-29T18:20:56.986053+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-10-30T18:20:22.012143+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "法律",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "赵一鸣部分门店被曝未经询问直接用糖果找零，可能涉及哪些法律问题？遇到这种情况，消费者可以怎么做？",
-          "url": "https://www.zhihu.com/question/1966141043364815108",
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967183428639266693",
           "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -21,13 +32,13 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
+          "title": "如何评价《崩坏：星穹铁道》战前快讯•其三 | 反铁墓战争最新资讯？",
+          "url": "https://www.zhihu.com/question/1967204074320552045",
+          "source": "知乎",
           "ranks": [
             9
           ],
