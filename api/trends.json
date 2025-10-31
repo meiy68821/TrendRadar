@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-10-30T18:20:22.012143+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-31T18:19:53.519352+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967183428639266693",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时19分"
         }
       ]
     },
@@ -36,15 +25,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价《崩坏：星穹铁道》战前快讯•其三 | 反铁墓战争最新资讯？",
-          "url": "https://www.zhihu.com/question/1967204074320552045",
-          "source": "知乎",
+          "title": "乌克兰能源监管机构计划将电力传输关税上调14.6%",
+          "url": "https://flash.jin10.com/detail/20251031173528656800",
+          "source": "金十数据",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时19分"
         }
       ]
     }
