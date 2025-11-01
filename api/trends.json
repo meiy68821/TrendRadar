@@ -1,39 +1,50 @@
 {
-  "generated_at": "2025-10-31T18:19:53.519352+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-11-01T18:18:50.376349+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
+          "title": "俄罗斯国防部：俄罗斯挫败了乌克兰在波克罗夫斯克附近从直升机上空降部队的企图。",
+          "url": "https://flash.jin10.com/detail/20251101173449955800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "俄罗斯国防部：一夜之间击落98架乌克兰无人机",
+          "url": "https://news.ifeng.com/c/8nvcKuONmY4",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "乌克兰能源监管机构计划将电力传输关税上调14.6%",
-          "url": "https://flash.jin10.com/detail/20251031173528656800",
-          "source": "金十数据",
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "18时18分"
         }
       ]
     }
