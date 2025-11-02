@@ -1,33 +1,44 @@
 {
-  "generated_at": "2025-11-01T18:18:50.376349+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-02T18:17:24.573228+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "俄罗斯国防部：俄罗斯挫败了乌克兰在波克罗夫斯克附近从直升机上空降部队的企图。",
-          "url": "https://flash.jin10.com/detail/20251101173449955800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "俄罗斯国防部：一夜之间击落98架乌克兰无人机",
-          "url": "https://news.ifeng.com/c/8nvcKuONmY4",
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
           "source": "凤凰网",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
+        },
+        {
+          "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878147",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "乌克兰最高拉达宣布，乌克兰自2022年以来国债增加了3倍，偿还需耗时35年，利息支出将超过3.8万亿格里夫纳（905亿美元）。",
+          "url": "https://flash.jin10.com/detail/20251102153823796800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -36,15 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         }
       ]
     }
