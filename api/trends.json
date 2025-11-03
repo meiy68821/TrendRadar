@@ -1,61 +1,100 @@
 {
-  "generated_at": "2025-11-02T18:17:24.573228+08:00",
+  "generated_at": "2025-11-03T18:23:35.781397+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878147",
+          "title": "专访厄瓜多尔前外长：美“禁毒战争”背后，门罗主义转向针对中国经济影响力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31843387",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时23分"
         },
         {
-          "title": "乌克兰最高拉达宣布，乌克兰自2022年以来国债增加了3倍，偿还需耗时35年，利息支出将超过3.8万亿格里夫纳（905亿美元）。",
-          "url": "https://flash.jin10.com/detail/20251102153823796800",
+          "title": "市场消息：英国向乌克兰追加供应“风暴之影”巡航导弹。",
+          "url": "https://flash.jin10.com/detail/20251103181340007800",
           "source": "金十数据",
           "ranks": [
-            28
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时23分"
+        },
+        {
+          "title": "俄国防部：过去一昼夜内共拦截击落365架乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20251103180502700800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "乌克兰正处于军事崩溃边缘吗",
+          "url": "https://www.toutiao.com/trending/7568400231780322859/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "黄金",
+      "match_count": 2,
       "titles": [
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
+          "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103181615614800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时23分"
+        },
+        {
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
+          "url": "https://wallstreetcn.com/livenews/2998517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     }
