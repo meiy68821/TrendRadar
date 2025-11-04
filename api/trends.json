@@ -1,100 +1,56 @@
 {
-  "generated_at": "2025-11-03T18:23:35.781397+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-04T18:22:51.951878+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "专访厄瓜多尔前外长：美“禁毒战争”背后，门罗主义转向针对中国经济影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31843387",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "市场消息：英国向乌克兰追加供应“风暴之影”巡航导弹。",
-          "url": "https://flash.jin10.com/detail/20251103181340007800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "俄国防部：过去一昼夜内共拦截击落365架乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20251103180502700800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "乌克兰正处于军事崩溃边缘吗",
-          "url": "https://www.toutiao.com/trending/7568400231780322859/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251103181615614800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "黄金税收新规出台后，招行实体金条价格已含税",
-          "url": "https://wallstreetcn.com/livenews/2998489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "法律",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
-          "url": "https://wallstreetcn.com/livenews/2998517",
-          "source": "华尔街见闻-快讯",
+          "title": "甘肃一河道现市民淘金潮，有人称一盆就出了 5 克多，个人淘金可能带来哪些影响？将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/1968590596072497924",
+          "source": "知乎",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列财政部长斯莫特里奇：以色列经济具备从战争迅速转向增长的工具。",
+          "url": "https://flash.jin10.com/detail/20251104174119817800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
