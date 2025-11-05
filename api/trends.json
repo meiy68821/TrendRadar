@@ -1,56 +1,44 @@
 {
-  "generated_at": "2025-11-04T18:22:51.951878+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-11-05T18:21:26.630882+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "甘肃一河道现市民淘金潮，有人称一盆就出了 5 克多，个人淘金可能带来哪些影响？将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/1968590596072497924",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "以色列财政部长斯莫特里奇：以色列经济具备从战争迅速转向增长的工具。",
-          "url": "https://flash.jin10.com/detail/20251104174119817800",
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "乌克兰多地采取限电措施",
+          "url": "https://wallstreetcn.com/livenews/2999828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "乌克兰多地采取限电措施",
+          "url": "https://flash.jin10.com/detail/20251105174652986800",
           "source": "金十数据",
           "ranks": [
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时21分"
         }
       ]
     }
