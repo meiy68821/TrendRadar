@@ -1,44 +1,56 @@
 {
-  "generated_at": "2025-11-06T18:21:40.500179+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2025-11-07T18:20:54.606993+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
-          "url": "https://flash.jin10.com/detail/20251106180054572800",
-          "source": "金十数据",
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
-          "url": "https://flash.jin10.com/detail/20251106174631511800",
-          "source": "金十数据",
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
-          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "title": "俄罗斯国防部：俄军已占领乌克兰东部的乌斯佩尼夫卡。",
+          "url": "https://flash.jin10.com/detail/20251107172818590800",
           "source": "金十数据",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         }
       ]
     }
