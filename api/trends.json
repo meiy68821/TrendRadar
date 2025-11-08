@@ -1,22 +1,55 @@
 {
-  "generated_at": "2025-11-07T18:20:54.606993+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2025-11-08T18:18:39.576356+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 4,
       "titles": [
         {
-          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
-          "url": "https://wallstreetcn.com/articles/3758839",
-          "source": "华尔街见闻",
+          "title": "俄罗斯国防部：俄方部队已占领了乌克兰第聂伯罗彼得罗夫斯克州的沃夫切村。",
+          "url": "https://flash.jin10.com/detail/20251108170610310800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰总理：俄罗斯对乌克兰大坝的袭击损坏了基辅、哈尔科夫和波尔塔瓦地区的数个大型能源设施。",
+          "url": "https://flash.jin10.com/detail/20251108170042031800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯发射了450架无人机和45枚导弹，以袭击乌克兰的能源部门和基础设施。",
+          "url": "https://flash.jin10.com/detail/20251108162123783800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "俄罗斯国防部：一架乌克兰无人机在莫斯科地区被击落。",
+          "url": "https://flash.jin10.com/detail/20251108144607757800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -25,32 +58,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄罗斯国防部：俄军已占领乌克兰东部的乌斯佩尼夫卡。",
-          "url": "https://flash.jin10.com/detail/20251107172818590800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时18分"
         }
       ]
     }
