@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T18:18:39.576356+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-09T18:17:29.852424+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
@@ -8,65 +8,82 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "俄罗斯国防部：俄方部队已占领了乌克兰第聂伯罗彼得罗夫斯克州的沃夫切村。",
-          "url": "https://flash.jin10.com/detail/20251108170610310800",
+          "title": "俄罗斯国防部：俄罗斯军队正在乌克兰的米尔诺格勒开展进攻行动。",
+          "url": "https://flash.jin10.com/detail/20251109171045753800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         },
         {
-          "title": "乌克兰总理：俄罗斯对乌克兰大坝的袭击损坏了基辅、哈尔科夫和波尔塔瓦地区的数个大型能源设施。",
-          "url": "https://flash.jin10.com/detail/20251108170042031800",
+          "title": "俄罗斯国防部：在波克罗夫斯克地区击退了七次乌克兰袭击和八次突围企图。",
+          "url": "https://flash.jin10.com/detail/20251109170838834800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         },
         {
-          "title": "乌克兰总统泽连斯基：俄罗斯发射了450架无人机和45枚导弹，以袭击乌克兰的能源部门和基础设施。",
-          "url": "https://flash.jin10.com/detail/20251108162123783800",
+          "title": "俄罗斯国防部：俄罗斯打击了为乌克兰国防工业行动提供支持的能源设施。",
+          "url": "https://flash.jin10.com/detail/20251109170717957800",
           "source": "金十数据",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         },
         {
-          "title": "俄罗斯国防部：一架乌克兰无人机在莫斯科地区被击落。",
-          "url": "https://flash.jin10.com/detail/20251108144607757800",
-          "source": "金十数据",
+          "title": "俄军将攻占乌克兰“第三首都”",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%B0%86%E6%94%BB%E5%8D%A0%E4%B9%8C%E5%85%8B%E5%85%B0%E2%80%9C%E7%AC%AC%E4%B8%89%E9%A6%96%E9%83%BD%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "法律",
       "match_count": 1,
       "titles": [
         {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
+          "title": "大学生网购钥匙关掉百部电梯广告，呼吁大众拒绝「侵入式」广告，此举是否有法律风险？还有更好的拒绝办法吗？",
+          "url": "https://www.zhihu.com/question/1970556163776012925",
+          "source": "知乎",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "合同纠纷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "合同纠纷没解,Uzi回归纯脑补",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346892&amp;topic_name=%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%B2%A1%E8%A7%A3%2CUzi%E5%9B%9E%E5%BD%92%E7%BA%AF%E8%84%91%E8%A1%A5",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
