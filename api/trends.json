@@ -1,89 +1,63 @@
 {
-  "generated_at": "2025-11-09T18:17:29.852424+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-11-10T18:22:11.688361+08:00",
+  "total_titles_processed": 323,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "侵权",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "刘嘉玲喊话淘宝天猫：侵权欺骗消费者",
+          "url": "https://www.toutiao.com/trending/7570986876988260388/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "店铺回应被刘嘉玲喊话侵权",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BA%97%E9%93%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E4%BE%B5%E6%9D%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26pos%3D13%26band_rank%3D12%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D2%26q%3D%2523%25E5%25BA%2597%25E9%2593%25BA%25E5%259B%259E%25E5%25BA%2594%25E8%25A2%25AB%25E5%2588%2598%25E5%2598%2589%25E7%258E%25B2%25E5%2596%258A%25E8%25AF%259D%25E4%25BE%25B5%25E6%259D%2583%2523%26c_type%3D31%26realpos%3D12%26display_time%3D1762769410%26pre_seqid%3D17627694105850199129093&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "俄罗斯国防部：俄罗斯军队正在乌克兰的米尔诺格勒开展进攻行动。",
-          "url": "https://flash.jin10.com/detail/20251109171045753800",
+          "title": "乌克兰军方：米尔诺赫拉德周边的后勤路线并未完全被俄罗斯控制。",
+          "url": "https://flash.jin10.com/detail/20251110175200107800",
           "source": "金十数据",
           "ranks": [
-            4
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时22分"
         },
         {
-          "title": "俄罗斯国防部：在波克罗夫斯克地区击退了七次乌克兰袭击和八次突围企图。",
-          "url": "https://flash.jin10.com/detail/20251109170838834800",
+          "title": "俄罗斯国防部：俄军拿下乌克兰东部的Nove和Hnativka地区。",
+          "url": "https://flash.jin10.com/detail/20251110174505141800",
           "source": "金十数据",
           "ranks": [
-            5
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "俄罗斯国防部：俄罗斯打击了为乌克兰国防工业行动提供支持的能源设施。",
-          "url": "https://flash.jin10.com/detail/20251109170717957800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "俄军将攻占乌克兰“第三首都”",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%B0%86%E6%94%BB%E5%8D%A0%E4%B9%8C%E5%85%8B%E5%85%B0%E2%80%9C%E7%AC%AC%E4%B8%89%E9%A6%96%E9%83%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大学生网购钥匙关掉百部电梯广告，呼吁大众拒绝「侵入式」广告，此举是否有法律风险？还有更好的拒绝办法吗？",
-          "url": "https://www.zhihu.com/question/1970556163776012925",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "合同纠纷",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "合同纠纷没解,Uzi回归纯脑补",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346892&amp;topic_name=%E5%90%88%E5%90%8C%E7%BA%A0%E7%BA%B7%E6%B2%A1%E8%A7%A3%2CUzi%E5%9B%9E%E5%BD%92%E7%BA%AF%E8%84%91%E8%A1%A5",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时22分"
         }
       ]
     }
