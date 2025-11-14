@@ -1,200 +1,56 @@
 {
-  "generated_at": "2025-11-13T18:21:38.707242+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T18:20:52.978644+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "克里姆林宫：乌克兰迟早不得不与俄罗斯进行谈判，而其谈判立场正日益恶化。",
-          "url": "https://flash.jin10.com/detail/20251113180627425800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "巴基斯坦为何进行大规模战争动员",
-          "url": "https://www.toutiao.com/trending/7572119722192277046/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "欧洲多国相继警告或将与俄罗斯爆发战争",
-          "url": "https://news.ifeng.com/c/8oFczqMXc9t",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "克里姆林宫：仍然愿意通过政治和外交手段就乌克兰问题达成解决方案。",
-          "url": "https://flash.jin10.com/detail/20251113180611046800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "欧盟向乌克兰提供41亿欧元贷款",
-          "url": "https://wallstreetcn.com/livenews/3004095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基视察在乌克兰东南部奥里霍夫方向作战的部队。",
-          "url": "https://flash.jin10.com/detail/20251113173900805800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "乌克兰年底前不再与俄和谈",
-          "url": "https://www.toutiao.com/trending/7572055166141091378/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "阿里巴巴美股盘前涨超4%，公司正准备对其旗舰AI应用进行重大改版，旨在使其功能更接近OpenAI的ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3004067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "法律",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "缅甸亚太新城犯罪集团主犯佘智江被引渡回国，这次成功引渡有何意义？佘智江将面临哪些法律制裁？",
-          "url": "https://www.zhihu.com/question/1972054532130304171",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "如何评价九阳推出「哈基米南北绿豆」豆浆？这种网络流行词当做商品名称会有法律风险吗？",
-          "url": "https://www.zhihu.com/question/1971678850665653190",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "受政府停摆结束和降息预期提振 黄金价格突破4200美元",
-          "url": "https://flash.jin10.com/detail/20251113175418788800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "黄金价格延续涨势 升至三周高点",
-          "url": "https://www.toutiao.com/trending/7572078083620998697/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "误诊",
       "match_count": 1,
       "titles": [
         {
-          "title": "14岁男孩误诊矮小症打激素后患糖尿病",
-          "url": "https://www.toutiao.com/trending/7571996975403679794/",
-          "source": "今日头条",
+          "title": "山西「反杀狗主人案」一审未宣判，其女儿称父亲系自卫反击，检方指控防卫过当，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/1972233864865875236",
+          "source": "知乎",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "诉讼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伦敦高等法院裁定，必和必拓因坍塌造成的损害负有过失责任。必和必拓回应称，将对裁决提起上诉并捍卫英国集体诉讼。",
+          "url": "https://flash.jin10.com/detail/20251114173949269800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
+          "url": "https://wallstreetcn.com/livenews/3004778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
