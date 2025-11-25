@@ -1,116 +1,106 @@
 {
-  "generated_at": "2025-11-24T18:22:10.793037+08:00",
+  "generated_at": "2025-11-25T18:22:24.016364+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 8,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国结束俄乌冲突 28 点计划曝光，哪些条款值得关注？乌克兰会接受吗？",
-          "url": "https://www.zhihu.com/question/1975878819563921739",
-          "source": "知乎",
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
           "ranks": [
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
-          "title": "懂王卖了乌克兰,屈辱协议逼投降",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347406&amp;topic_name=%E6%87%82%E7%8E%8B%E5%8D%96%E4%BA%86%E4%B9%8C%E5%85%8B%E5%85%B0%2C%E5%B1%88%E8%BE%B1%E5%8D%8F%E8%AE%AE%E9%80%BC%E6%8A%95%E9%99%8D",
-          "source": "贴吧",
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
           "ranks": [
-            26
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：一个团结且协调一致的欧盟立场是确保乌克兰与欧洲和平谈判取得圆满结果的关键。",
-          "url": "https://flash.jin10.com/detail/20251124174823645800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "欧洲理事会主席科斯塔：今天上午与乌克兰总统泽连斯基通话，了解他对当前局势的评估。",
-          "url": "https://flash.jin10.com/detail/20251124174743278800",
-          "source": "金十数据",
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
           "ranks": [
-            15
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "据俄新社：俄罗斯国防部称，俄军已夺取乌克兰波克罗夫斯克的两个区。",
-          "url": "https://flash.jin10.com/detail/20251124174443856800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "克宫：未收到关于日内瓦乌克兰和平谈判的官方最新进展",
-          "url": "https://flash.jin10.com/detail/20251124174301636800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "据俄新社：俄罗斯国防部称，俄军已占领乌克兰扎波罗热地区的扎蒂希亚。",
-          "url": "https://flash.jin10.com/detail/20251124174258896800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
-          "url": "https://wallstreetcn.com/livenews/3009492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国非洲事务顾问：特朗普正努力解决包括俄罗斯与乌克兰在内的多起冲突。",
+          "url": "https://flash.jin10.com/detail/20251125181601455800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：在美国与乌克兰和欧洲人进行会谈之后，俄罗斯正在等待美国和平计划的“过渡性”版本。",
+          "url": "https://flash.jin10.com/detail/20251125180428212800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "法律",
       "match_count": 1,
       "titles": [
         {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
+          "title": "荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？",
+          "url": "https://www.zhihu.com/question/1976253932666845124",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "诉讼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台积电：已对前任资深副总经理罗唯仁提起诉讼",
+          "url": "https://flash.jin10.com/detail/20251125181533619800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
