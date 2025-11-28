@@ -1,100 +1,128 @@
 {
-  "generated_at": "2025-11-27T18:21:21.256723+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-11-28T18:21:08.793938+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中俄正在就结束乌克兰危机进行磋商？外交部回应",
+          "url": "https://www.cls.cn/detail/2213949",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "马英九：赖清德形同宣布台湾进入“准战争状态”",
+          "url": "https://news.ifeng.com/c/8oe3cf5Tg9x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "乌克兰军方：已击中俄罗斯萨拉托夫炼油厂。",
+          "url": "https://flash.jin10.com/detail/20251128173759190800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "俄罗斯国防部：在过去一周内，其已清除了波克罗夫斯克地区6,585栋建筑物内的乌克兰军队，并击退了乌克兰突围的54次尝试。",
+          "url": "https://flash.jin10.com/detail/20251128173502516800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
-          "url": "https://wallstreetcn.com/livenews/3011463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "乌克兰外交部长：谈判团队将于近期举行会晤，基辅将重点推进和平方案中的具体举措。",
-          "url": "https://flash.jin10.com/detail/20251127173841623800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
-          "title": "据俄新社：俄罗斯国防部表示，俄军已占领乌克兰东部的瓦西基夫卡。",
-          "url": "https://flash.jin10.com/detail/20251127171330613800",
+          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
+          "url": "https://flash.jin10.com/detail/20251128180023594800",
           "source": "金十数据",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
         {
-          "title": "丧权辱国!乌克兰将签投降协议",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347513&amp;topic_name=%E4%B8%A7%E6%9D%83%E8%BE%B1%E5%9B%BD%21%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B0%86%E7%AD%BE%E6%8A%95%E9%99%8D%E5%8D%8F%E8%AE%AE",
-          "source": "贴吧",
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "法律",
       "match_count": 1,
       "titles": [
         {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
+          "title": "【天风证券：公司因涉嫌信息披露违法违规、违法提供融资被立案】天风证券公告，公司于2025年11月28日收到中国证监会下发的《立案告知书》，因涉嫌信息披露违法违规、违法提供融资，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，中国证监会决定对公司立案。目前，公司各项生产经营活动正常有序开展，公司将积极配合中国证监会的相关调查工作，并严格按照有关法律法规及监管要求履行信息披露义务。",
+          "url": "https://wallstreetcn.com/livenews/3012137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "诉讼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法院向吴亦凡经纪公司追缴诉讼费",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%90%91%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%BF%BD%E7%BC%B4%E8%AF%89%E8%AE%BC%E8%B4%B9%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         }
       ]
     }
