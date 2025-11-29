@@ -1,128 +1,149 @@
 {
-  "generated_at": "2025-11-28T18:21:08.793938+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-11-29T18:18:28.325269+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
-          "title": "中俄正在就结束乌克兰危机进行磋商？外交部回应",
-          "url": "https://www.cls.cn/detail/2213949",
-          "source": "财联社热门",
+          "title": "俄罗斯国防部：俄军夜间对乌克兰军事工业和能源设施发动大规模打击。",
+          "url": "https://flash.jin10.com/detail/20251129170810275800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "马英九：赖清德形同宣布台湾进入“准战争状态”",
-          "url": "https://news.ifeng.com/c/8oe3cf5Tg9x",
+          "title": "西方政客曾评价叶尔马克：他是乌克兰总统、总理、所有部长之和",
+          "url": "https://news.ifeng.com/c/8ofdKMDfPnx",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "乌克兰军方：已击中俄罗斯萨拉托夫炼油厂。",
-          "url": "https://flash.jin10.com/detail/20251128173759190800",
+          "title": "图说｜乌克兰“最艰难”的冬季来临，但“我已经精疲力尽”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053357",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "美国努力斡旋之际，俄罗斯和乌克兰相互发动袭击",
+          "url": "https://flash.jin10.com/detail/20251129164851049800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时18分"
         },
         {
-          "title": "俄罗斯国防部：在过去一周内，其已清除了波克罗夫斯克地区6,585栋建筑物内的乌克兰军队，并击退了乌克兰突围的54次尝试。",
-          "url": "https://flash.jin10.com/detail/20251128173502516800",
+          "title": "乌克兰总统泽连斯基：我们必须分秒必争地确保我们的防空系统有足够的导弹。",
+          "url": "https://flash.jin10.com/detail/20251129162152716800",
           "source": "金十数据",
           "ranks": [
-            14
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：袭击的主要目标是能源基础设施和民用设施，住宅建筑遭到了广泛的破坏和火灾。我们目前收到数十人受伤，三人死亡的报告。",
+          "url": "https://flash.jin10.com/detail/20251129162137387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在基辅和该地区，我们的紧急服务部门正在俄罗斯空袭地点工作。俄罗斯已经向平民发射了大约36枚导弹和近600架无人机。",
+          "url": "https://flash.jin10.com/detail/20251129162123190800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰会割地换和平吗",
+          "url": "https://www.toutiao.com/trending/7578050955623534122/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "乌克兰能源部：俄罗斯昨夜的袭击损害了基辅及五个地区的能源基础设施，超过60万用户断电。",
+          "url": "https://flash.jin10.com/detail/20251129154910644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "普京宣布与乌克兰停火条件",
+          "url": "https://www.douyin.com/hot/2321216",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
-          "url": "https://flash.jin10.com/detail/20251128180023594800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3012094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【天风证券：公司因涉嫌信息披露违法违规、违法提供融资被立案】天风证券公告，公司于2025年11月28日收到中国证监会下发的《立案告知书》，因涉嫌信息披露违法违规、违法提供融资，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，中国证监会决定对公司立案。目前，公司各项生产经营活动正常有序开展，公司将积极配合中国证监会的相关调查工作，并严格按照有关法律法规及监管要求履行信息披露义务。",
-          "url": "https://wallstreetcn.com/livenews/3012137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "诉讼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法院向吴亦凡经纪公司追缴诉讼费",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%90%91%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%BF%BD%E7%BC%B4%E8%AF%89%E8%AE%BC%E8%B4%B9%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "time_info": "18时18分"
         }
       ]
     }
