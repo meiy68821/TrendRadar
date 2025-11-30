@@ -1,117 +1,40 @@
 {
-  "generated_at": "2025-11-29T18:18:28.325269+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-30T18:18:31.748335+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
-          "title": "俄罗斯国防部：俄军夜间对乌克兰军事工业和能源设施发动大规模打击。",
-          "url": "https://flash.jin10.com/detail/20251129170810275800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "西方政客曾评价叶尔马克：他是乌克兰总统、总理、所有部长之和",
-          "url": "https://news.ifeng.com/c/8ofdKMDfPnx",
+          "title": "泽连斯基：乌克兰代表团已抵达美国，将磋商俄乌和平方案",
+          "url": "https://news.ifeng.com/c/8ohctmfQFpL",
           "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "图说｜乌克兰“最艰难”的冬季来临，但“我已经精疲力尽”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053357",
-          "source": "澎湃新闻",
+          "title": "美战机在委海岸附近盘旋，委防长称“战争即将来临”",
+          "url": "https://wallstreetcn.com/livenews/3012505",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "美国努力斡旋之际，俄罗斯和乌克兰相互发动袭击",
-          "url": "https://flash.jin10.com/detail/20251129164851049800",
-          "source": "金十数据",
+          "title": "俄副外长：部分欧洲国家仍在阻碍乌克兰危机的解决",
+          "url": "https://wallstreetcn.com/livenews/3012492",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我们必须分秒必争地确保我们的防空系统有足够的导弹。",
-          "url": "https://flash.jin10.com/detail/20251129162152716800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：袭击的主要目标是能源基础设施和民用设施，住宅建筑遭到了广泛的破坏和火灾。我们目前收到数十人受伤，三人死亡的报告。",
-          "url": "https://flash.jin10.com/detail/20251129162137387800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：在基辅和该地区，我们的紧急服务部门正在俄罗斯空袭地点工作。俄罗斯已经向平民发射了大约36枚导弹和近600架无人机。",
-          "url": "https://flash.jin10.com/detail/20251129162123190800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乌克兰会割地换和平吗",
-          "url": "https://www.toutiao.com/trending/7578050955623534122/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乌克兰能源部：俄罗斯昨夜的袭击损害了基辅及五个地区的能源基础设施，超过60万用户断电。",
-          "url": "https://flash.jin10.com/detail/20251129154910644800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "普京宣布与乌克兰停火条件",
-          "url": "https://www.douyin.com/hot/2321216",
-          "source": "抖音",
-          "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,26 +43,26 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
         {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
