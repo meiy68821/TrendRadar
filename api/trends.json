@@ -1,78 +1,33 @@
 {
-  "generated_at": "2025-12-06T18:18:37.009278+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T18:17:40.320525+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
       "match_count": 2,
       "titles": [
         {
-          "title": "国际原子能机构：乌克兰扎波罗热核电站夜间暂时失去所有场外电源。",
-          "url": "https://flash.jin10.com/detail/20251206174659613800",
+          "title": "俄罗斯国防部：俄军昨夜对乌克兰的交通基础设施、燃料与能源设施以及远程无人机基地实施了集群打击。",
+          "url": "https://flash.jin10.com/detail/20251207171308356800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         },
         {
-          "title": "乌克兰能源部：俄罗斯昨夜的袭击波及了八个地区的能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20251206154204968800",
+          "title": "据俄新社：俄罗斯军队占领乌克兰哈尔科夫地区的库切里夫卡。",
+          "url": "https://flash.jin10.com/detail/20251207171109514800",
           "source": "金十数据",
           "ranks": [
-            25
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "法律",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "卡塔尔能源部长：卡塔尔希望欧盟能在12月底前解决企业对欧盟可持续发展法律的关切。",
-          "url": "https://flash.jin10.com/detail/20251206165335064800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         }
       ]
     },
@@ -81,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "18时17分"
         }
       ]
     }
