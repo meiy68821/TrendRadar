@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:17:40.320525+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-12-08T18:22:24.658325+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
@@ -8,43 +8,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "俄罗斯国防部：俄军昨夜对乌克兰的交通基础设施、燃料与能源设施以及远程无人机基地实施了集群打击。",
-          "url": "https://flash.jin10.com/detail/20251207171308356800",
+          "title": "荷兰政府再拨款7亿欧元，用于2026年对乌克兰的军事援助。",
+          "url": "https://flash.jin10.com/detail/20251208173155032800",
           "source": "金十数据",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时22分"
         },
         {
-          "title": "据俄新社：俄罗斯军队占领乌克兰哈尔科夫地区的库切里夫卡。",
-          "url": "https://flash.jin10.com/detail/20251207171109514800",
+          "title": "据俄新社：俄罗斯国防部表示，俄罗斯军队控制乌克兰顿涅茨克地区的切尔沃内定居点。",
+          "url": "https://flash.jin10.com/detail/20251208172907491800",
           "source": "金十数据",
           "ranks": [
-            6
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时22分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "18时22分"
         }
       ]
     }
