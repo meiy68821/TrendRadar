@@ -1,61 +1,33 @@
 {
-  "generated_at": "2025-12-09T18:23:29.612996+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-10T18:22:39.451843+08:00",
+  "total_titles_processed": 296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "梵蒂冈声明：教皇利奥在与乌克兰总统泽连斯基会晤时重申，必须继续对话，并迫切希望当前的外交倡议能带来公正而持久的和平。",
-          "url": "https://flash.jin10.com/detail/20251209174845235800",
+          "title": "乌克兰副能源部长：过去24小时内，俄罗斯袭击了敖德萨地区的天然气输送系统。",
+          "url": "https://flash.jin10.com/detail/20251210175753883800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "18时22分"
         },
         {
-          "title": "据俄新社：俄罗斯国防部称，俄军已占领乌克兰第聂伯罗彼得罗夫斯克州的OSTAPIVSKE定居点。",
-          "url": "https://flash.jin10.com/detail/20251209173332913800",
-          "source": "金十数据",
+          "title": "乌克兰或在 90 天内举行大选，候选人有哪些，一旦结果支持俄乌和平，会对全球经济和市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1982009611511930966",
+          "source": "知乎",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "据PUL PERVOGO电报频道：白俄罗斯总统卢卡申科就立陶宛关于气球事件的指责表示，我们不需要战争。",
-          "url": "https://flash.jin10.com/detail/20251209172636735800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "18时22分"
         }
       ]
     }
