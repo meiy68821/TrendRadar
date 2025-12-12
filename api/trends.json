@@ -1,66 +1,89 @@
 {
-  "generated_at": "2025-12-11T18:22:45.729845+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-12-12T18:21:18.939900+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "欧盟寻求在周五前达成冻结俄罗斯资产协议，以缓解对乌克兰的援助压力；该计划将通过紧急权力延长冻结俄罗斯资产的期限。",
-          "url": "https://flash.jin10.com/detail/20251211180024418800",
+          "title": "市场消息：乌克兰哈尔科夫东部地区一枚KAB航空炸弹被发射。",
+          "url": "https://flash.jin10.com/detail/20251212174422355800",
           "source": "金十数据",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时21分"
         },
         {
-          "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
-          "url": "https://flash.jin10.com/detail/20251211175449735800",
-          "source": "金十数据",
+          "title": "从乌克兰征兵广告看俄乌战局演变",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BE%81%E5%85%B5%E5%B9%BF%E5%91%8A%E7%9C%8B%E4%BF%84%E4%B9%8C%E6%88%98%E5%B1%80%E6%BC%94%E5%8F%98",
+          "source": "百度热搜",
           "ranks": [
-            13
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时21分"
         },
         {
-          "title": "德国总理默茨：我们将长期支持乌克兰，并将利用被冻结的俄罗斯资产来帮助保护乌克兰。",
-          "url": "https://flash.jin10.com/detail/20251211174959017800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "德国总理默茨：将继续加大对俄罗斯的施压力度，以期结束乌克兰战争。",
-          "url": "https://flash.jin10.com/detail/20251211174831160800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "拉夫罗夫：俄方关注消除乌克兰危机产生的根本原因",
-          "url": "https://wallstreetcn.com/livenews/3019111",
-          "source": "华尔街见闻-快讯",
+          "title": "全面战争战锤40k公布预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%E6%88%98%E9%94%A440k%E5%85%AC%E5%B8%83%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "诉讼",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "独家｜知名黄金企业金雅福部分理财产品兑付延期，已引发多宗诉讼",
+          "url": "https://www.cls.cn/detail/2227559",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -69,15 +92,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "激光雷达芯片“疑云”：灵明光子称“不存在对速腾聚创侵权风险”",
-          "url": "https://wallstreetcn.com/livenews/3019109",
-          "source": "华尔街见闻-快讯",
+          "title": "李现在澳门扫街摄影，被路人警告「把我删了，不然报警」，拍到路人算侵权吗？在澳门街头摄影都有哪些红线？",
+          "url": "https://www.zhihu.com/question/1981761416898770243",
+          "source": "知乎",
           "ranks": [
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
