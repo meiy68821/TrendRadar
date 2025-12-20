@@ -1,66 +1,61 @@
 {
-  "generated_at": "2025-12-19T18:21:16.107196+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-20T18:19:03.420568+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "普京：目前没看到乌克兰讨论领土问题的意愿",
-          "url": "https://news.ifeng.com/c/8pDOPjP8OVK",
-          "source": "凤凰网",
+          "title": "俄罗斯国防部：俄罗斯军队已占领乌克兰顿涅茨克地区的斯维特莱。",
+          "url": "https://flash.jin10.com/detail/20251220171112912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "俄罗斯国防部：俄军已夺取乌克兰苏梅州的维索克。（国际文传电讯社）",
+          "url": "https://flash.jin10.com/detail/20251220170954517800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "俄罗斯总统普京：（谈及欧盟搁置将俄罗斯冻结的资产用于乌克兰的计划）因可能招致严重后果，他们的“掠夺”最终未能得逞。",
-          "url": "https://flash.jin10.com/detail/20251219175141419800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时19分"
         },
         {
-          "title": "俄乌接近停战欧洲却陷“战争焦虑”",
-          "url": "https://www.toutiao.com/trending/7585460822256651812/",
-          "source": "今日头条",
+          "title": "普京总结2025：从乌克兰危机聊到大国关系，4个半小时讲了啥",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32215054",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
+          "time_info": "[18时18分 ~ 18时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "波兰总理：得益于我们对乌克兰的融资决定，该国有望在可接受的条件下与俄罗斯展开谈判。",
-          "url": "https://flash.jin10.com/detail/20251219171952948800",
-          "source": "金十数据",
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "俄罗斯总统普京：俄罗斯军队已进入乌克兰的胡里艾伯勒镇。",
-          "url": "https://flash.jin10.com/detail/20251219171919644800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         }
       ]
     }
