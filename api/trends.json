@@ -1,122 +1,55 @@
 {
-  "generated_at": "2025-12-23T18:22:07.241296+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-12-24T18:20:51.645124+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "中方回应乌克兰或将制裁中国公民",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E5%B0%86%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91",
-          "source": "百度热搜",
+          "title": "克里姆林宫：（就美国关于乌克兰和平协议的提议形式和细节）通过媒体沟通并不合适。",
+          "url": "https://flash.jin10.com/detail/20251224175121720800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
-          "title": "中方回应乌克兰或将制裁中国公民",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%96%E5%B0%86%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "俄罗斯国防部：使用匕首导弹对乌克兰的能源和军事设施实施打击。",
-          "url": "https://flash.jin10.com/detail/20251223172211896800",
+          "title": "克里姆林宫：（就美国提出的乌克兰和平方案）俄罗斯将在不久的将来制定自身立场并继续保持接触。",
+          "url": "https://flash.jin10.com/detail/20251224175112125800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时20分"
         },
         {
-          "title": "据俄新社：俄罗斯军队控制了乌克兰第聂伯罗彼得罗夫斯克州的Andriivka。",
-          "url": "https://flash.jin10.com/detail/20251223172043988800",
+          "title": "俄罗斯国防部：俄军袭击了乌克兰境内的军工企业。",
+          "url": "https://flash.jin10.com/detail/20251224172639049800",
           "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时20分"
         },
         {
-          "title": "据俄新社：俄罗斯军队控制了乌克兰哈尔科夫地区的Prylipka。",
-          "url": "https://flash.jin10.com/detail/20251223172024571800",
+          "title": "据俄新社：俄罗斯军队占领乌克兰东部的Zarichne。",
+          "url": "https://flash.jin10.com/detail/20251224172520656800",
           "source": "金十数据",
           "ranks": [
-            12
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医疗事故",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "宁波女婴术后离世医疗事故鉴定启动",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E9%89%B4%E5%AE%9A%E5%90%AF%E5%8A%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "小洛熙术后离世医疗事故鉴定启动",
-          "url": "https://www.toutiao.com/trending/7585941024360071231/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "小洛熙医疗事故鉴定已启动",
-          "url": "https://www.douyin.com/hot/2345408",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "time_info": "18时20分"
         }
       ]
     }
