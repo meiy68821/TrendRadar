@@ -1,55 +1,61 @@
 {
-  "generated_at": "2025-12-24T18:20:51.645124+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-12-25T18:21:28.575383+08:00",
+  "total_titles_processed": 296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "克里姆林宫：（就美国关于乌克兰和平协议的提议形式和细节）通过媒体沟通并不合适。",
-          "url": "https://flash.jin10.com/detail/20251224175121720800",
+          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯奥伦堡的一座天然气处理厂。",
+          "url": "https://flash.jin10.com/detail/20251225173912186800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时21分"
         },
         {
-          "title": "克里姆林宫：（就美国提出的乌克兰和平方案）俄罗斯将在不久的将来制定自身立场并继续保持接触。",
-          "url": "https://flash.jin10.com/detail/20251224175112125800",
+          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯捷姆留克港的油品储罐。",
+          "url": "https://flash.jin10.com/detail/20251225173549922800",
           "source": "金十数据",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时21分"
         },
         {
-          "title": "俄罗斯国防部：俄军袭击了乌克兰境内的军工企业。",
-          "url": "https://flash.jin10.com/detail/20251224172639049800",
+          "title": "俄罗斯国防部：俄军已夺取乌克兰顿涅茨克地区的斯维亚托-波克罗夫斯克。",
+          "url": "https://flash.jin10.com/detail/20251225170406627800",
           "source": "金十数据",
           "ranks": [
-            16
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        },
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "法律",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "据俄新社：俄罗斯军队占领乌克兰东部的Zarichne。",
-          "url": "https://flash.jin10.com/detail/20251224172520656800",
-          "source": "金十数据",
+          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
+          "url": "https://www.zhihu.com/question/1987465963923330361",
+          "source": "知乎",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时21分"
         }
       ]
     }
