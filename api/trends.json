@@ -1,61 +1,72 @@
 {
-  "generated_at": "2025-12-25T18:21:28.575383+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2025-12-26T18:20:47.381819+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯奥伦堡的一座天然气处理厂。",
-          "url": "https://flash.jin10.com/detail/20251225173912186800",
-          "source": "金十数据",
+          "title": "拜登之子称乌克兰腐败“令人震惊”",
+          "url": "https://news.ifeng.com/c/8pOyCPFhdRB",
+          "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         },
         {
-          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯捷姆留克港的油品储罐。",
-          "url": "https://flash.jin10.com/detail/20251225173549922800",
-          "source": "金十数据",
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         },
         {
-          "title": "俄罗斯国防部：俄军已夺取乌克兰顿涅茨克地区的斯维亚托-波克罗夫斯克。",
-          "url": "https://flash.jin10.com/detail/20251225170406627800",
+          "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
+          "url": "https://flash.jin10.com/detail/20251226175327901800",
           "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
+        },
+        {
+          "title": "俄新社：俄罗斯军队控制了乌克兰扎波罗热地区的Kosivtseve。",
+          "url": "https://flash.jin10.com/detail/20251226172055411800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
     {
-      "keyword_group": "法律",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "监视员工的软件被公开叫卖，员工微信聊天像「裸奔」，使用这种软件违反了哪些法律？公司要承担怎样的责任？",
-          "url": "https://www.zhihu.com/question/1987465963923330361",
-          "source": "知乎",
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         }
       ]
     }
