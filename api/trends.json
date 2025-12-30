@@ -1,136 +1,86 @@
 {
-  "generated_at": "2025-12-29T18:22:45.570874+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-12-30T18:22:11.240859+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 10,
+      "match_count": 7,
       "titles": [
         {
-          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3028086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "克里姆林宫：重要的是要记住，美国总统特朗普曾表示，乌克兰正在失去领土，并可能失去更多领土。",
-          "url": "https://flash.jin10.com/detail/20251229175219434800",
+          "title": "俄罗斯国防部：在克拉斯诺达尔边疆区击落4架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251230173907863800",
           "source": "金十数据",
           "ranks": [
-            7
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "克里姆林宫：目前未讨论任何有关俄罗斯总统普京与乌克兰总统泽连斯基通话的问题。",
-          "url": "https://flash.jin10.com/detail/20251229175143524800",
+          "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32268033",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "克里姆林宫：（就据称的乌克兰无人机袭击俄罗斯总统普京住所发表声明）这是一起旨在破坏和平谈判的“恐怖袭击”",
+          "url": "https://flash.jin10.com/detail/20251230172606412800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "克里姆林宫：乌克兰应从其部队控制的顿巴斯地区撤出军队。",
-          "url": "https://flash.jin10.com/detail/20251229175107717800",
+          "title": "克里姆林宫：我们看到，乌克兰总统泽连斯基正试图否认这次袭击，而西方媒体正在与乌克兰同流合污。",
+          "url": "https://flash.jin10.com/detail/20251230172545264800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "克里姆林宫：（就美国总统特朗普有关乌克兰和平协议更接近达成的言论）我们当然同意。",
-          "url": "https://flash.jin10.com/detail/20251229175043199800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：扎波罗热核电站和领土问题在20点计划中仍未得到解决。",
-          "url": "https://flash.jin10.com/detail/20251229174841119800",
+          "title": "克里姆林宫：（在被问及是否会就乌克兰发动袭击的指控提供证据时表示）这由我们的军方决定。",
+          "url": "https://flash.jin10.com/detail/20251230172532839800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "乌克兰总统泽连斯基：外国军队驻扎在乌克兰将是真正的安全保证。",
-          "url": "https://flash.jin10.com/detail/20251229173812007800",
+          "title": "克里姆林宫：乌克兰无人机袭击将强化俄罗斯在谈判中的立场。",
+          "url": "https://flash.jin10.com/detail/20251230172524257800",
           "source": "金十数据",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
         {
-          "title": "俄罗斯国防部：过去24小时内击落140架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251229173352710800",
+          "title": "乌克兰外长驳斥俄方“袭击普京官邸”指控：子虚乌有",
+          "url": "https://flash.jin10.com/detail/20251230172518611800",
           "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已告知美国总统特朗普，俄罗斯总统普京关于准备结束冲突的言论与其实际行动并不一致。",
-          "url": "https://flash.jin10.com/detail/20251229173217920800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "泽连斯基：特朗普告诉我，他曾与普京讨论过20点计划。 在特朗普和欧洲领导人就文件达成同意后，与俄罗斯举行会晤是可能的。 希望乌克兰在和平计划签署的同时获得安全保障。 20点计划应提交公投，至少需要60天的停火才能举行公投。 乌克兰和美国将共同努力达成自由贸易协定。",
-          "url": "https://wallstreetcn.com/livenews/3028029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
-          "url": "https://wallstreetcn.com/livenews/3028031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
