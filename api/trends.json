@@ -1,88 +1,33 @@
 {
-  "generated_at": "2025-12-30T18:22:11.240859+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-12-31T18:20:52.305478+08:00",
+  "total_titles_processed": 296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "俄罗斯国防部：在克拉斯诺达尔边疆区击落4架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251230173907863800",
+          "title": "市场消息：俄罗斯国防部发布视频称，画面显示一架飞向普京官邸的乌克兰无人机被击落。",
+          "url": "https://flash.jin10.com/detail/20251231171852278800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32268033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
-          "title": "克里姆林宫：（就据称的乌克兰无人机袭击俄罗斯总统普京住所发表声明）这是一起旨在破坏和平谈判的“恐怖袭击”",
-          "url": "https://flash.jin10.com/detail/20251230172606412800",
+          "title": "市场消息：俄罗斯国防部公布了试图袭击普京官邸的乌克兰无人机的飞行路线图。",
+          "url": "https://flash.jin10.com/detail/20251231171225905800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "克里姆林宫：我们看到，乌克兰总统泽连斯基正试图否认这次袭击，而西方媒体正在与乌克兰同流合污。",
-          "url": "https://flash.jin10.com/detail/20251230172545264800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "克里姆林宫：（在被问及是否会就乌克兰发动袭击的指控提供证据时表示）这由我们的军方决定。",
-          "url": "https://flash.jin10.com/detail/20251230172532839800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "克里姆林宫：乌克兰无人机袭击将强化俄罗斯在谈判中的立场。",
-          "url": "https://flash.jin10.com/detail/20251230172524257800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "乌克兰外长驳斥俄方“袭击普京官邸”指控：子虚乌有",
-          "url": "https://flash.jin10.com/detail/20251230172518611800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "18时20分"
         }
       ]
     }
