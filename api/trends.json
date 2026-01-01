@@ -1,33 +1,61 @@
 {
-  "generated_at": "2025-12-31T18:20:52.305478+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2026-01-01T18:21:37.247814+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场消息：俄罗斯国防部发布视频称，画面显示一架飞向普京官邸的乌克兰无人机被击落。",
-          "url": "https://flash.jin10.com/detail/20251231171852278800",
+          "title": "当地媒体报道称，乌克兰无人机袭击俄罗斯鞑靼斯坦的一处储能设施，引发火灾。",
+          "url": "https://flash.jin10.com/detail/20260101174959010800",
           "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "俄罗斯国防部：一架乌克兰苏-27战斗机被击落。",
+          "url": "https://flash.jin10.com/detail/20260101173511209800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
+          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        },
+          "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "市场消息：俄罗斯国防部公布了试图袭击普京官邸的乌克兰无人机的飞行路线图。",
-          "url": "https://flash.jin10.com/detail/20251231171225905800",
-          "source": "金十数据",
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时21分"
         }
       ]
     }
