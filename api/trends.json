@@ -1,61 +1,83 @@
 {
-  "generated_at": "2026-01-01T18:21:37.247814+08:00",
+  "generated_at": "2026-01-02T18:20:35.287317+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "当地媒体报道称，乌克兰无人机袭击俄罗斯鞑靼斯坦的一处储能设施，引发火灾。",
-          "url": "https://flash.jin10.com/detail/20260101174959010800",
+          "title": "乌克兰总理：昨夜敌军使用攻击无人机袭击了扎波罗热市，这是对该市规模最大的袭击之一。居民楼、购物中心场所和民用基础设施遭到破坏，所幸无人受伤。",
+          "url": "https://flash.jin10.com/detail/20260102175324262800",
           "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         },
         {
-          "title": "俄罗斯国防部：一架乌克兰苏-27战斗机被击落。",
-          "url": "https://flash.jin10.com/detail/20260101173511209800",
+          "title": "俄罗斯国防部：过去一周共击落1600架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260102172849776800",
           "source": "金十数据",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
         },
         {
-          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
-          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
-          "source": "凤凰网",
+          "title": "俄罗斯国防部：过去一周对乌克兰军事目标发动了1次大规模打击和6次其他打击。",
+          "url": "https://flash.jin10.com/detail/20260102172133642800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
+        },
+        {
+          "title": "市场消息：针对乌克兰对俄罗斯境内平民目标的袭击，俄罗斯国防部报告称，俄军已动用包括“匕首”高超音速导弹在内的高精度武器，实施了大规模和六组打击。",
+          "url": "https://flash.jin10.com/detail/20260102170909085800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "18时20分"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
