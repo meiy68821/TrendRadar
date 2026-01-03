@@ -1,83 +1,33 @@
 {
-  "generated_at": "2026-01-02T18:20:35.287317+08:00",
+  "generated_at": "2026-01-03T18:19:25.285369+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "乌克兰 俄乌战争 国际局势 战争",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "乌克兰总理：昨夜敌军使用攻击无人机袭击了扎波罗热市，这是对该市规模最大的袭击之一。居民楼、购物中心场所和民用基础设施遭到破坏，所幸无人受伤。",
-          "url": "https://flash.jin10.com/detail/20260102175324262800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "俄罗斯国防部：过去一周共击落1600架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20260102172849776800",
+          "title": "俄罗斯国防部：俄罗斯军队已占领乌克兰顿涅茨克地区的邦达尔内。",
+          "url": "https://flash.jin10.com/detail/20260103172531674800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时19分"
         },
         {
-          "title": "俄罗斯国防部：过去一周对乌克兰军事目标发动了1次大规模打击和6次其他打击。",
-          "url": "https://flash.jin10.com/detail/20260102172133642800",
+          "title": "美参议员警告称：美国在委内瑞拉“没有重大国家利益”无需发动战争",
+          "url": "https://flash.jin10.com/detail/20260103165432698800",
           "source": "金十数据",
           "ranks": [
-            18
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "市场消息：针对乌克兰对俄罗斯境内平民目标的袭击，俄罗斯国防部报告称，俄军已动用包括“匕首”高超音速导弹在内的高精度武器，实施了大规模和六组打击。",
-          "url": "https://flash.jin10.com/detail/20260102170909085800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "18时19分"
         }
       ]
     }
